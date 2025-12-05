@@ -29,5 +29,5 @@ A secure and scalable Money Manager application built with **Spring Boot** that 
 ---
 
 ## 👨‍💻 Author 
-### Hariharan
-### GitHub: Rhariharan08
+### Mahalakshmi
+### GitHub: Maha-412
